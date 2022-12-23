@@ -1,6 +1,7 @@
-bluetooth low energy, BLE (CC2540 USB Dongle) connected to USB port of PC
+bluetooth low energy, BLE (CC2540 USB Dongle)---accelerometer---- connected to USB port of PC
 Serial Port (COMx)
-accelerometer
+
+![image](https://user-images.githubusercontent.com/113337736/209319294-183b028f-5a34-40a0-aefd-906eb210fb21.png)
 
 
 
